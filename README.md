@@ -1,6 +1,6 @@
 # LocalVault
 
-**Aluno:** [Seu Nome]
+**Aluno:** Otavio
 
 Aplicativo Flutter demonstrando as três principais abordagens de persistência de dados local: SharedPreferences, Hive e flutter_secure_storage.
 
